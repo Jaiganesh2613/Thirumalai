@@ -21,7 +21,7 @@ git clone https://github.com/yourusername/FakeEmployeeRecords.git
 ```
 
 ### 2. Build the Project
-```bash
+```
 cd FakeEmployeeRecords
 mvn clean package 
 ```
